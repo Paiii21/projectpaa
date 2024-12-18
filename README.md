@@ -1,3 +1,3 @@
-# projectpaa
+# projectpaa Muhammad Fahri Alamsyah F55123099
 
-Muhammad Fahri Alamsyah F55123099
+Grafik Worst Case vs Average Case Time Complexity menunjukkan perbandingan waktu eksekusi antara dua skenario algoritma seiring bertambahnya ukuran array (n). Pada ukuran array kecil, waktu eksekusi untuk kasus terburuk (Worst Case) lebih tinggi dibandingkan kasus rata-rata (Average Case), terutama pada n = 100. Namun, saat ukuran array meningkat, perbedaan antara kedua skenario tersebut mengecil dan menjadi lebih konsisten. Waktu eksekusi untuk kedua kasus cenderung stabil di sekitar 1-2 × 10⁻⁵ detik, dengan sedikit fluktuasi, khususnya pada ukuran array di sekitar n = 300. Hal ini menunjukkan bahwa performa algoritma pada kasus terburuk membaik saat ukuran array lebih besar, sedangkan kasus rata-rata mengalami peningkatan yang lebih linear dan stabil seiring pertambahan ukuran array.
